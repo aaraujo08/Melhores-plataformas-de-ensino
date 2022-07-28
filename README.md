@@ -1,4 +1,4 @@
-## Plataformas para aprender e se manter atualizados no mundo de TI
+# Plataformas para aprender e se manter atualizados no mundo de TI
 [DIO](https://www.dio.me/)
 [Udemy](https://www.udemy.com/)
 [LINUXtips](https://www.linuxtips.io/)
